@@ -1,0 +1,12 @@
+.header {
+    /*grid-area: h;*/
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*background-color: chartreuse;*/
+}
+  
+.header img {
+    width: 60px;
+}

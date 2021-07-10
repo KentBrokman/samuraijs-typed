@@ -1,0 +1,16 @@
+.paginator {
+    margin: 10px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.page {
+    padding: 2px;
+    border: 1px solid grey;
+}
+
+.selectedPage.page {
+    border: 3px solid black;
+}

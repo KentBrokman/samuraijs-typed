@@ -1,0 +1,8 @@
+.friends {
+    padding-right: 20px;
+}
+
+.friendsItem {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.dialogue {
+    margin-bottom: 10px;
+}
+
+.dialogueInner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,30 @@
+.dialogues {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+.dialoguesItems {
+    padding: 10px;
+}
+
+.dialogue.active {
+    color: gold;
+}
+
+.messages {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.userImg img {
+    margin-right: 20px;
+}
+
+.messageData {
+    margin-bottom: 20px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
