@@ -69,7 +69,7 @@ class App extends React.Component<MapPropsType & DispatchPropsType> {
                             }}/>
                             <Route path='/chat' render={() => {
                                 return <React.Suspense fallback={<div>Loading...</div>}>
-                                    <ChatPage2/>
+                                    <ChatPage/>
                                 </React.Suspense>
                             }}/>
                             <Route path='/music' render={() => <Music/>}/>
